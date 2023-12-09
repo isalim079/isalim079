@@ -19,6 +19,24 @@
 
 ## 🧑‍💻 What I know
 
+<br>
+<p align="center">
+<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/react.png?raw=true"/>
+<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/javaScript.png?raw=true"/>
+<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/tailwind.png?raw=true"/>
+<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/mongoDB.png?raw=true"/>
+
+</p>
+<p align="center">
+<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/html.png?raw=true"/>
+<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/css.png?raw=true"/>
+
+</p>
+<br/>
+
+## 🔎 Current overview
+
+ Looking for an intern or a full time job. Working on my own project and gaining skill day by day. Looking for some opportunity to grow up.
 
 <!---
 isalim079/isalim079 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
