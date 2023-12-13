@@ -31,6 +31,7 @@
 <p align="center">
 <img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/html.png?raw=true"/>
 <img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/techIcon/css.png?raw=true"/>
+<img height="100" src="assets/techIcon/nodeJs.png"/>
 
 </p>
 <br/>
