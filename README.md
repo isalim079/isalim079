@@ -5,15 +5,15 @@
 ## 📈 Current preview
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=isalim079&theme=synthwave&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats-chi-wine.vercel.app?user=isalim079&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 🤝 Contact with me
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-wine.vercel.app?user=isalim079&theme=synthwave&hide_border=true)](https://git.io/streak-stats) 
+[<p align="center"><img height="100" src="assets/LinkedinIcon.png">](https://www.linkedin.com/in/md-salim-reza-sumon-99027220a/)[<img height="100" src="assets/showwcase.png">](https://www.showwcase.com/isalim079) [<img height="100" src="https://github.com/isalim079/isalim079/blob/main/assets/facebookIcon.png?raw=true"> </p>](https://www.facebook.com/salimreza.sumon.5/) 
 
 
 <br />
