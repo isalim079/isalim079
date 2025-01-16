@@ -6,7 +6,7 @@
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-wine.vercel.app?user=isalim079&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+[<div align="center">![GitHub Streak](https://github-readme-streak-stats-chi-wine.vercel.app?user=isalim079&theme=synthwave&hide_border=true) </div>](https://git.io/streak-stats)
 
 
 ## 🤝 Contact with me
