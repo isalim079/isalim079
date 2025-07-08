@@ -47,7 +47,7 @@ Building production-ready applications with **React**, **TypeScript**, and **Nex
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:salimrezasumon079@gmail.com" target="_blank">
+  <a href="mailto:salimreza1025@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
   &nbsp;&nbsp;
@@ -112,6 +112,7 @@ Building production-ready applications with **React**, **TypeScript**, and **Nex
 <p align="center">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 ### Cloud Services & Deployment
