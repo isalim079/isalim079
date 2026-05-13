@@ -45,13 +45,7 @@ features, code quality, and team delivery.
 
 ## GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=isalim079&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=isalim079&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isalim079)](https://git.io/streak-stats)
 
 ## Current Role
 
